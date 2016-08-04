@@ -1,0 +1,42 @@
+_repo: Don-Rodriguez--Chronicles-of-Shadow-Valley_4282
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dunsany, Lord
+    aliases:
+    - Dunsany, Edward John Moreton Drax Plunkett, Baron
+    - Plunkett, Edward John Moreton Drax, Baron Dunsany
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '2685'
+    url: http://www.gutenberg.org/2009/agents/2685
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
+description: "Don Rodriguez: Chronicles of Shadow Valley is a fantasy novel by Lord\
+  \ Dunsany, issued in the United States under this title and in the United Kingdom\
+  \ as The Chronicles of Rodriguez. The first editions, in hardcover, were published\
+  \ simultaneously in London and New York by G. P. Putnam's Sons in February 1922.\
+  \ The first paperback edition was published by Ballantine Books as the thirtieth\
+  \ volume of its celebrated Ballantine Adult Fantasy series in May 1971. It was the\
+  \ series' third Dunsany volume. The Ballantine edition includes an introduction\
+  \ by series editor Lin Carter. It and later editions use the American title.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4282'
+  wikidata: Q5293427
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Fiction'
+- !lcsh 'Magicians -- Fiction'
+- !lcsh 'Fantasy fiction, English'
+- !lcc 'PR'
+- GITenberg
+title: Don Rodriguez; Chronicles of Shadow Valley
+url: http://www.gutenberg.org/ebooks/4282
+wikipedia:
+- https://en.wikipedia.org/wiki/Don_Rodriguez:_Chronicles_of_Shadow_Valley
